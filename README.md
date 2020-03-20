@@ -1,4 +1,6 @@
-# chatbox
+# chatbox  //node-modules not being transfered
+
+demo: havefun.png
 
 ## Project setup
 ```
